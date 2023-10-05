@@ -1,0 +1,14 @@
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.csproj.AssemblyReference.cache
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.AssemblyInfoInputs.cache
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.AssemblyInfo.cs
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.csproj.CoreCompileInputs.cache
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\bin\Debug\net6.0\map.backend.shared.deps.json
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\bin\Debug\net6.0\map.backend.shared.runtimeconfig.json
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\bin\Debug\net6.0\map.backend.shared.dll
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\bin\Debug\net6.0\map.backend.shared.pdb
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.dll
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\refint\map.backend.shared.dll
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.pdb
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\map.backend.shared.genruntimeconfig.cache
+D:\Data\Code\WPT\Projects\MapTree\map.backend\map.backend.shared\obj\Debug\net6.0\ref\map.backend.shared.dll

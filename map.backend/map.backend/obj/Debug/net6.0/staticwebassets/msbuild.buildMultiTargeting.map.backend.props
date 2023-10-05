@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\map.backend.props" />
+</Project>

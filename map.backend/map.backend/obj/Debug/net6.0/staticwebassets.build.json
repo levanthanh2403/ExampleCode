@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eUHPBuzFHo8JYVeFhLb8PtAmvYUcK35RPGFtkZoLzT0=",
+  "Source": "map.backend",
+  "BasePath": "_content/map.backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
